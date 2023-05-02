@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Inter-Bold;
+    src: url("./assets/fonts/Inter-Bold.ttf");
+}
+@font-face {
+    font-family: Inter-Light;
+    src: url("./assets/fonts/Inter-Light.ttf");
+}
+@font-face {
+    font-family: Inter-Medium;
+    src: url("./assets/fonts/Inter-Medium.ttf");
+}
+@font-face {
+    font-family: Inter-Regular;
+    src: url("./assets/fonts/Inter-Regular.ttf");
+}
+@font-face {
+    font-family: Inter-Thin;
+    src: url("./assets/fonts/Inter-Thin.ttf");
+}
+@font-face {
+    font-family: Gordita-Bold;
+    src: url("./landing-page/assets/fonts/Gordita-Bold.woff");
+}
+@font-face {
+    font-family: Gordita-Light;
+    src: url("./landing-page/assets/fonts/Gordita-Light.woff");
+}
+@font-face {
+    font-family: Gordita-Medium;
+    src: url("./landing-page/assets/fonts/Gordita-Medium.woff");
+}
+@font-face {
+    font-family: Gordita-Regular;
+    src: url("./landing-page/assets/fonts/Gordita-Regular.woff");
+}
+
+@font-face {
+    font-family: Indulekha;
+    src: url("./landing-page/assets/fonts/Indulekha.ttf");
+}
+@font-face {
+    font-family: Indulekha-Bold;
+    src: url("./landing-page/assets/fonts/Indulekha-Bold.ttf");
+}
+
+html.modal-enabled {
+    overflow: hidden;
+}
